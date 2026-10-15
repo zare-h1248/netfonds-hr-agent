@@ -1,0 +1,4 @@
+google-adk>=2.11.0
+pypdf
+numpy
+python-dotenv
